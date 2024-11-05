@@ -1,0 +1,3 @@
+﻿  Math quiz.cpp
+C:\Users\USER\source\repos\Math quiz\Math quiz\Math quiz.cpp(27,1): warning C4715: 'quizlvl': not all control paths return a value
+  Math quiz.vcxproj -> C:\Users\USER\source\repos\Math quiz\x64\Debug\Math quiz.exe
